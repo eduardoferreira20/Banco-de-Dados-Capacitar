@@ -1,0 +1,22 @@
+<style>
+
+.imagem
+{
+	height: 20px;
+}
+
+.dados
+{
+	margin-left: 37%;
+	margin-top: 9%;
+	width: 25%;
+	height: 500px;
+}
+
+.btton
+{
+	margin-left: 38%;
+	margin-top: 6%;
+	background-color: lightblue; 
+}
+</style>

@@ -1,0 +1,18 @@
+<style>
+#body
+{
+	height: 500px;
+}
+.btton
+{
+	margin-left: 38%;
+	background-color: lightblue; 
+}
+.dados
+{
+	margin-left: 37%;
+	margin-top: 11%;
+	width: 25%;
+	height: 500px;
+}
+</style>
